@@ -63,7 +63,14 @@ Brightzy is a feature-rich Android application offering interactive maps, 3D com
 
 ## 📸 Screenshots
 
-*Screenshots sourced from Google Play Store listing*
+![Screenshot 1](unnamed.png)
+![Screenshot 2](unnamed (1).png)
+![Screenshot 3](unnamed (2).png)
+![Screenshot 4](unnamed( 3).png)
+![Screenshot 5](unnamed (4).png)
+![Screenshot 6](unnamed (5).png)
+![Screenshot 7](unnamed (6).png)
+![Screenshot 8](unnamed (7).png)
 
 ---
 
